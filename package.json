@@ -1,0 +1,19 @@
+{
+  "name": "starter_template",
+  "version": "1.0.0",
+  "description": "Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-1985/starter_template.git"
+  },
+  "author": "Matthias Rodrigues de Franca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-1985/starter_template/issues"
+  },
+  "homepage": "https://github.com/Matt-1985/starter_template#readme"
+}
