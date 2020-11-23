@@ -1,2 +1,3 @@
 # starter_template
-A template for a quick start for your projects
+
+Boilerplate for Create-React-App with an Express.js API
